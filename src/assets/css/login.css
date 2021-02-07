@@ -1,0 +1,17 @@
+#loginform{
+    width: 40%;
+    margin: auto;
+    margin-top: 15%;
+}
+
+.form-control{
+    margin: 3%;
+}
+
+
+.profile_pic{
+    width: 50%;
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-bottom: 2%;
+}
